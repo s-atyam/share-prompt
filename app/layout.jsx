@@ -1,7 +1,7 @@
 import '@styles/globals.css'
 
 export const metadata = {
-  title:'Propmtopia',
+  title:'Discover Muse',
   description:'Discover & share AI prompts'
 }
 
